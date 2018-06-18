@@ -1,0 +1,1685 @@
+{
+  "New York": {
+    "date": 1528395741,
+    "lng": -73.9764,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395741,
+    "key": "acd287672ff505f796cd3bf0be21c080",
+    "lat": 40.7238,
+    "path": "/NY/New_York",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "NY/New_York",
+    "walkscore": 96,
+    "page": "c"
+  },
+  "Los Angeles": {
+    "date": 1528395741,
+    "lng": -118.412,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395741,
+    "key": "45a8820c6bf96e7f88572d3bcf1427ce",
+    "lat": 34.107,
+    "path": "/CA/Los_Angeles",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/Los_Angeles",
+    "walkscore": 5,
+    "page": "c"
+  },
+  "Chicago": {
+    "date": 1528395741,
+    "lng": -87.6848,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395741,
+    "key": "1d5d8a6015f34090d28a97179df8ef61",
+    "lat": 41.8369,
+    "path": "/IL/Chicago",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "IL/Chicago",
+    "walkscore": 41,
+    "page": "c"
+  },
+  "Houston": {
+    "date": 1528395742,
+    "lng": -95.386,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395742,
+    "key": "1f6cc0ac07143b8456c60ada402b78a8",
+    "lat": 29.7807,
+    "path": "/TX/Houston",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "TX/Houston",
+    "walkscore": 72,
+    "page": "c"
+  },
+  "Philadelphia": {
+    "date": 1528395742,
+    "lng": -75.134,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "6661 Germantown Avenue",
+    "sort_date": 1528395742,
+    "key": "d49bd021bea63bd349b123db76577f2f",
+    "lat": 40.0076,
+    "path": "/PA/Philadelphia",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "PA/Philadelphia",
+    "walkscore": 75,
+    "page": "c"
+  },
+  "Phoenix": {
+    "date": 1528395742,
+    "lng": -112.089,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395742,
+    "key": "23e508788bac5ae54be0d08a8ade375e",
+    "lat": 33.5724,
+    "path": "/AZ/Phoenix",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "AZ/Phoenix",
+    "walkscore": 63,
+    "page": "c"
+  },
+  "San Antonio": {
+    "date": 1528395742,
+    "lng": -98.5247,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395742,
+    "key": "20203648bbb2ca06938c443a97f9e68e",
+    "lat": 29.4721,
+    "path": "/TX/San_Antonio",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "TX/San_Antonio",
+    "walkscore": 68,
+    "page": "c"
+  },
+  "San Diego": {
+    "date": 1528395743,
+    "lng": -117.133,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395743,
+    "key": "2a208dc49bcebb3ffe35ff30cf13a6a3",
+    "lat": 32.8169,
+    "path": "/CA/San_Diego",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/San_Diego",
+    "walkscore": 19,
+    "page": "c"
+  },
+  "Dallas": {
+    "date": 1528395743,
+    "lng": -96.7657,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395743,
+    "key": "f723f062552ab6e5a0905eb6a07ac216",
+    "lat": 32.794,
+    "path": "/TX/Dallas",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "TX/Dallas",
+    "walkscore": 70,
+    "page": "c"
+  },
+  "San Jose": {
+    "date": 1528395743,
+    "lng": -121.849,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "79 Devine Street",
+    "sort_date": 1528395743,
+    "key": "93a547e6588ab06c78242f17aa08c496",
+    "lat": 37.3018,
+    "path": "/CA/San_Jose",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/San_Jose",
+    "walkscore": 32,
+    "page": "c"
+  },
+  "Austin": {
+    "date": 1528395743,
+    "lng": -97.7555,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395743,
+    "key": "63fd836f15db3e3af66b9cf191be4be1",
+    "lat": 30.3069,
+    "path": "/TX/Austin",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "TX/Austin",
+    "walkscore": 77,
+    "page": "c"
+  },
+  "Indianapolis": {
+    "date": 1528395744,
+    "lng": -86.1458,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395744,
+    "key": "e25ab7b3b193c2940e383d96c22363cc",
+    "lat": 39.7771,
+    "path": "/IN/Indianapolis",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "IN/Indianapolis",
+    "walkscore": 91,
+    "page": "c"
+  },
+  "Jacksonville": {
+    "date": 1528395744,
+    "lng": -81.6602,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395744,
+    "key": "548332c445899fa99eea4bd8e696cbbb",
+    "lat": 30.337,
+    "path": "/FL/Jacksonville",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "FL/Jacksonville",
+    "walkscore": 60,
+    "page": "c"
+  },
+  "San Francisco": {
+    "date": 1528395744,
+    "lng": -122.451,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395744,
+    "key": "d2b70b38f05eebcfbb87cec51e90279f",
+    "lat": 37.7642,
+    "path": "/CA/San_Francisco",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/San_Francisco",
+    "walkscore": 95,
+    "page": "c"
+  },
+  "Columbus": {
+    "date": 1528395744,
+    "lng": -82.9852,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395744,
+    "key": "6e754d5aaf5cd18617b10cb5f18ab29b",
+    "lat": 39.986,
+    "path": "/OH/Columbus",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "OH/Columbus",
+    "walkscore": 47,
+    "page": "c"
+  },
+  "Charlotte": {
+    "date": 1528395744,
+    "lng": -80.8301,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395744,
+    "key": "e3f4ba9e7de50a828764f96ae98653e3",
+    "lat": 35.2079,
+    "path": "/NC/Charlotte",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "NC/Charlotte",
+    "walkscore": 76,
+    "page": "c"
+  },
+  "Fort Worth": {
+    "date": 1528395745,
+    "lng": -97.347,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "Calhoun Street",
+    "sort_date": 1528395745,
+    "key": "1eef9a532d58ca3313cfecaf135f9dc0",
+    "lat": 32.7802,
+    "path": "/TX/Fort_Worth",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "TX/Fort_Worth",
+    "walkscore": 56,
+    "page": "c"
+  },
+  "Detroit": {
+    "date": 1528395745,
+    "lng": -83.1024,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395745,
+    "key": "c4fab756eb50889e76eb212a0c83523f",
+    "lat": 42.3834,
+    "path": "/MI/Detroit",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "MI/Detroit",
+    "walkscore": 37,
+    "page": "c"
+  },
+  "El Paso": {
+    "date": 1528395745,
+    "lng": -106.432,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "Interstate 10",
+    "sort_date": 1528395745,
+    "key": "ededba0d090f38e4c64940ca1bde09aa",
+    "lat": 31.8481,
+    "path": "/TX/El_Paso",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "TX/El_Paso",
+    "walkscore": 2,
+    "page": "c"
+  },
+  "Memphis": {
+    "date": 1528395745,
+    "lng": -89.9789,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395745,
+    "key": "2d455f64095d12fdfa4e014c1a41bf5b",
+    "lat": 35.1046,
+    "path": "/TN/Memphis",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "TN/Memphis",
+    "walkscore": 65,
+    "page": "c"
+  },
+  "Seattle": {
+    "date": 1528395745,
+    "lng": -122.351,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395745,
+    "key": "b29303ecb96714e0d1fff202d8e71fb1",
+    "lat": 47.6202,
+    "path": "/WA/Seattle",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "WA/Seattle",
+    "walkscore": 92,
+    "page": "c"
+  },
+  "Denver": {
+    "date": 1528395745,
+    "lng": -104.876,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "1357 Sherman Street",
+    "sort_date": 1528395745,
+    "key": "e8aadb2882bc251ae0b7d0d82e05cc45",
+    "lat": 39.762,
+    "path": "/CO/Denver",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CO/Denver",
+    "walkscore": 30,
+    "page": "c"
+  },
+  "Washington": {
+    "date": 1528395746,
+    "lng": -77.0163,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "1239-1259 16th Street Northwest",
+    "sort_date": 1528395746,
+    "key": "910f0582fb65de286b0311fcded31d37",
+    "lat": 38.9048,
+    "path": "/DC/Washington_D.C.",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "DC/Washington_D.C.",
+    "walkscore": 91,
+    "page": "c"
+  },
+  "Boston": {
+    "date": 1528395747,
+    "lng": -71.0815,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "42-58 Tremont Street",
+    "sort_date": 1528395747,
+    "key": "182c8eabee6bfebf41953aa77817816a",
+    "lat": 42.3327,
+    "path": "/MA/Boston",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "MA/Boston",
+    "walkscore": 86,
+    "page": "c"
+  },
+  "Nashville-Davidson": {
+    "date": 1528395747,
+    "lng": -86.7846,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395747,
+    "key": "be81ef8f91009b414382547d618b3a87",
+    "lat": 36.1712,
+    "path": "/TN/Nashville-Davidson",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "TN/Nashville-Davidson",
+    "walkscore": 81,
+    "page": "c"
+  },
+  "Baltimore": {
+    "date": 1528395747,
+    "lng": -76.6106,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "101-199 North Calvert Street",
+    "sort_date": 1528395747,
+    "key": "a82da428a525534b088ca41a1382760b",
+    "lat": 39.301,
+    "path": "/MD/Baltimore",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "MD/Baltimore",
+    "walkscore": 89,
+    "page": "c"
+  },
+  "Oklahoma City": {
+    "date": 1528395747,
+    "lng": -97.5138,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "89 North Robinson Avenue",
+    "sort_date": 1528395747,
+    "key": "65664d6438931ccea83ae76cbbd6235b",
+    "lat": 35.4676,
+    "path": "/OK/Oklahoma_City",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "OK/Oklahoma_City",
+    "walkscore": 80,
+    "page": "c"
+  },
+  "Portland": {
+    "date": 1528395748,
+    "lng": -122.65,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395748,
+    "key": "b65b3ad3c7a5e2da8568f2050b99ac72",
+    "lat": 45.5372,
+    "path": "/OR/Portland",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "OR/Portland",
+    "walkscore": 88,
+    "page": "c"
+  },
+  "Las Vegas": {
+    "date": 1528395748,
+    "lng": -115.263,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395748,
+    "key": "6ed3ae9cb6d305d26b0cd33d8884b4ae",
+    "lat": 36.2274,
+    "path": "/NV/Las_Vegas",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "NV/Las_Vegas",
+    "walkscore": 9,
+    "page": "c"
+  },
+  "Milwaukee": {
+    "date": 1528395748,
+    "lng": -87.9672,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395748,
+    "key": "01cc4283f8130e15c06ae8a6bd802f44",
+    "lat": 43.0641,
+    "path": "/WI/Milwaukee",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "WI/Milwaukee",
+    "walkscore": 72,
+    "page": "c"
+  },
+  "Albuquerque": {
+    "date": 1528395749,
+    "lng": -106.647,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "3301 Menaul Boulevard Northeast",
+    "sort_date": 1528395749,
+    "key": "296870d9007ae8c2d5466ac89c8640ce",
+    "lat": 35.1055,
+    "path": "/NM/Albuquerque",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "NM/Albuquerque",
+    "walkscore": 45,
+    "page": "c"
+  },
+  "Tucson": {
+    "date": 1528395749,
+    "lng": -110.877,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "3131 East Broadway Boulevard",
+    "sort_date": 1528395749,
+    "key": "824e5b228a265e86266e3c1048d97c9c",
+    "lat": 32.1567,
+    "path": "/AZ/Tucson",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "AZ/Tucson",
+    "walkscore": 1,
+    "page": "c"
+  },
+  "Fresno": {
+    "date": 1528395749,
+    "lng": -119.794,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "301 North First Street",
+    "sort_date": 1528395749,
+    "key": "2d505e046950364b5bf3d7c84add894b",
+    "lat": 36.7827,
+    "path": "/CA/Fresno",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/Fresno",
+    "walkscore": 56,
+    "page": "c"
+  },
+  "Sacramento": {
+    "date": 1528395749,
+    "lng": -121.468,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395749,
+    "key": "77f2ade310de543598d3e6ebbcae36c0",
+    "lat": 38.5666,
+    "path": "/CA/Sacramento",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/Sacramento",
+    "walkscore": 86,
+    "page": "c"
+  },
+  "Long Beach": {
+    "date": 1528395750,
+    "lng": -118.161,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395750,
+    "key": "fbcbbf6c158fcc2d286d2fbb54b5517f",
+    "lat": 33.8058,
+    "path": "/CA/Long_Beach",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/Long_Beach",
+    "walkscore": 59,
+    "page": "c"
+  },
+  "Kansas City": {
+    "date": 1528395750,
+    "lng": -94.5541,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395750,
+    "key": "ebff041f24e882064774ee0267d02483",
+    "lat": 39.1239,
+    "path": "/MO/Kansas_City",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "MO/Kansas_City",
+    "walkscore": 20,
+    "page": "c"
+  },
+  "Mesa": {
+    "date": 1528395750,
+    "lng": -111.719,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395750,
+    "key": "d4d942adbebd9a49378e7d3d7e1eb007",
+    "lat": 33.4023,
+    "path": "/AZ/Mesa",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "AZ/Mesa",
+    "walkscore": 14,
+    "page": "c"
+  },
+  "Virginia Beach": {
+    "date": 1528395750,
+    "lng": -76.0164,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "300 25th Street",
+    "sort_date": 1528395750,
+    "key": "cac20287e322ad94395c6da7e97641f0",
+    "lat": 36.7778,
+    "path": "/VA/Virginia_Beach",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "VA/Virginia_Beach",
+    "walkscore": 6,
+    "page": "c"
+  },
+  "Atlanta": {
+    "date": 1528395751,
+    "lng": -84.4231,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395751,
+    "key": "ce1745a24806a14d5b78cec3f06d74f5",
+    "lat": 33.7627,
+    "path": "/GA/Atlanta",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "GA/Atlanta",
+    "walkscore": 60,
+    "page": "c"
+  },
+  "Colorado Springs": {
+    "date": 1528395751,
+    "lng": -104.761,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "150 East Pikes Peak Avenue",
+    "sort_date": 1528395751,
+    "key": "e813506dd9c2bf47815c6216f2f0e742",
+    "lat": 38.8673,
+    "path": "/CO/Colorado_Springs",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CO/Colorado_Springs",
+    "walkscore": 57,
+    "page": "c"
+  },
+  "Omaha": {
+    "date": 1528395751,
+    "lng": -96.0415,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "710-726 South 55th Street",
+    "sort_date": 1528395751,
+    "key": "e43bdd119c85eadc62c1cb85459d50db",
+    "lat": 41.2642,
+    "path": "/NE/Omaha",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "NE/Omaha",
+    "walkscore": 70,
+    "page": "c"
+  },
+  "Raleigh": {
+    "date": 1528395751,
+    "lng": -78.644,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395751,
+    "key": "81ec1c79e15a3ae4e4984a4bb9548574",
+    "lat": 35.8322,
+    "path": "/NC/Raleigh",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "NC/Raleigh",
+    "walkscore": 10,
+    "page": "c"
+  },
+  "Miami": {
+    "date": 1528395755,
+    "lng": -80.2089,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "Interstate 95",
+    "sort_date": 1528395755,
+    "key": "15dcb5cae0cde3698555d7877b972dec",
+    "lat": 25.7753,
+    "path": "/FL/Miami",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "FL/Miami",
+    "walkscore": 87,
+    "page": "c"
+  },
+  "Oakland": {
+    "date": 1528395756,
+    "lng": -122.225,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395756,
+    "key": "c1d66739d3aa6f0f3941bbbcfa02162e",
+    "lat": 37.77,
+    "path": "/CA/Oakland",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/Oakland",
+    "walkscore": 57,
+    "page": "c"
+  },
+  "Minneapolis": {
+    "date": 1528395756,
+    "lng": -93.2678,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "143 Hennepin Avenue",
+    "sort_date": 1528395756,
+    "key": "7e7fa2c7a33338d36728d59ba0de4bc8",
+    "lat": 44.9635,
+    "path": "/MN/Minneapolis",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "MN/Minneapolis",
+    "walkscore": 80,
+    "page": "c"
+  },
+  "Tulsa": {
+    "date": 1528395756,
+    "lng": -95.9036,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395756,
+    "key": "58579b59774fb3f973a3a504982e4470",
+    "lat": 36.1284,
+    "path": "/OK/Tulsa",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "OK/Tulsa",
+    "walkscore": 63,
+    "page": "c"
+  },
+  "Cleveland": {
+    "date": 1528395756,
+    "lng": -81.6802,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395756,
+    "key": "b47af683eda902d62b5c8b8f28e53fe7",
+    "lat": 41.4793,
+    "path": "/OH/Cleveland",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "OH/Cleveland",
+    "walkscore": 58,
+    "page": "c"
+  },
+  "Wichita": {
+    "date": 1528395756,
+    "lng": -97.3429,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "228 North Market Street",
+    "sort_date": 1528395756,
+    "key": "9363d34f84dfa172408d4ec01132a5ab",
+    "lat": 37.6906,
+    "path": "/KS/Wichita",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "KS/Wichita",
+    "walkscore": 73,
+    "page": "c"
+  },
+  "Arlington": {
+    "date": 1528395757,
+    "lng": -97.1251,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395757,
+    "key": "7297f5f0f3a08bf2ad0b5b124022f52c",
+    "lat": 32.6998,
+    "path": "/TX/Arlington",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "TX/Arlington",
+    "walkscore": 40,
+    "page": "c"
+  },
+  "New Orleans": {
+    "date": 1528395757,
+    "lng": -90.0494,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395757,
+    "key": "d784e4aeca887149f8eb89634291f26a",
+    "lat": 29.9633,
+    "path": "/LA/New_Orleans",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "LA/New_Orleans",
+    "walkscore": 86,
+    "page": "c"
+  },
+  "Bakersfield": {
+    "date": 1528395758,
+    "lng": -119.03,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395758,
+    "key": "822582e3b5bdf415ec5fbd09e137089c",
+    "lat": 35.3513,
+    "path": "/CA/Bakersfield",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/Bakersfield",
+    "walkscore": 58,
+    "page": "c"
+  },
+  "Tampa": {
+    "date": 1528395758,
+    "lng": -82.4764,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "700-798 North Morgan Street",
+    "sort_date": 1528395758,
+    "key": "d4d841eab84aa13ad7bf1441ef0c778d",
+    "lat": 27.968,
+    "path": "/FL/Tampa",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "FL/Tampa",
+    "walkscore": 51,
+    "page": "c"
+  },
+  "Honolulu": {
+    "date": 1528395758,
+    "lng": -157.845,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395758,
+    "key": "0dbb910eb2ecc74b192b4f0da0e26e8d",
+    "lat": 21.3257,
+    "path": "/HI/Honolulu",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "HI/Honolulu",
+    "walkscore": 25,
+    "page": "c"
+  },
+  "Aurora": {
+    "date": 1528395758,
+    "lng": -104.727,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "885-899 Vaughn Street",
+    "sort_date": 1528395758,
+    "key": "0ccfc87fd504b4c81a65eea82e0323b5",
+    "lat": 39.7092,
+    "path": "/CO/Aurora",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CO/Aurora",
+    "walkscore": 0,
+    "page": "c"
+  },
+  "Anaheim": {
+    "date": 1528395759,
+    "lng": -117.858,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "100 West Lincoln Avenue",
+    "sort_date": 1528395759,
+    "key": "2d906be7e1e9389382541316b96133b1",
+    "lat": 33.8389,
+    "path": "/CA/Anaheim",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/Anaheim",
+    "walkscore": 46,
+    "page": "c"
+  },
+  "Santa Ana": {
+    "date": 1528395759,
+    "lng": -117.882,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395759,
+    "key": "0f45ea13c5aa7929bb47f6dd8aad5829",
+    "lat": 33.7367,
+    "path": "/CA/Santa_Ana",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/Santa_Ana",
+    "walkscore": 49,
+    "page": "c"
+  },
+  "St. Louis": {
+    "date": 1528395759,
+    "lng": -90.2451,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395759,
+    "key": "a24650d215aaf2f6eee4ad3bf88e31d2",
+    "lat": 38.6358,
+    "path": "/MO/St._Louis",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "MO/St._Louis",
+    "walkscore": 67,
+    "page": "c"
+  },
+  "Riverside": {
+    "date": 1528395759,
+    "lng": -117.395,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395759,
+    "key": "b2b28c980d8758961c63cf7ca978247a",
+    "lat": 33.9381,
+    "path": "/CA/Riverside",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/Riverside",
+    "walkscore": 51,
+    "page": "c"
+  },
+  "Corpus Christi": {
+    "date": 1528395760,
+    "lng": -97.2807,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395760,
+    "key": "7890c84385312add5d7c35259db6af22",
+    "lat": 27.7346,
+    "path": "/TX/Corpus_Christi",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "TX/Corpus_Christi",
+    "walkscore": 0,
+    "page": "c"
+  },
+  "Lexington-Fayette": {
+    "date": 1528395760,
+    "lng": -84.4587,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395760,
+    "key": "8edc26924d82de456d2cca5835e65386",
+    "lat": 38.0423,
+    "path": "/KY/Lexington-Fayette",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "KY/Lexington-Fayette",
+    "walkscore": 50,
+    "page": "c"
+  },
+  "Pittsburgh": {
+    "date": 1528395761,
+    "lng": -79.9763,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395761,
+    "key": "cc25d5330d23ac0796761c26089547f1",
+    "lat": 40.4396,
+    "path": "/PA/Pittsburgh",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "PA/Pittsburgh",
+    "walkscore": 63,
+    "page": "c"
+  },
+  "Anchorage": {
+    "date": 1528395761,
+    "lng": -149.195,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395761,
+    "key": "a7d086737c5e4020a4c70c6d80d7caf9",
+    "lat": 61.1483,
+    "path": "/AK/Anchorage",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "AK/Anchorage",
+    "walkscore": 0,
+    "page": "c"
+  },
+  "Stockton": {
+    "date": 1528395762,
+    "lng": -121.311,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395762,
+    "key": "4b6f2de9896d18d60346b6b473c5f430",
+    "lat": 37.9766,
+    "path": "/CA/Stockton",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/Stockton",
+    "walkscore": 48,
+    "page": "c"
+  },
+  "Cincinnati": {
+    "date": 1528395762,
+    "lng": -84.506,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395762,
+    "key": "e2b15feaf1c4f7b2fe51a475366dda8b",
+    "lat": 39.1412,
+    "path": "/OH/Cincinnati",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "OH/Cincinnati",
+    "walkscore": 45,
+    "page": "c"
+  },
+  "St. Paul": {
+    "date": 1528395762,
+    "lng": -93.104,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395762,
+    "key": "72f0008034f2edbfe6bbb9a21eb06ab4",
+    "lat": 44.9477,
+    "path": "/MN/St._Paul",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "MN/St._Paul",
+    "walkscore": 92,
+    "page": "c"
+  },
+  "Toledo": {
+    "date": 1528395762,
+    "lng": -83.582,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395762,
+    "key": "b872786801b2995872ea9a8914259f99",
+    "lat": 41.664,
+    "path": "/OH/Toledo",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "OH/Toledo",
+    "walkscore": 46,
+    "page": "c"
+  },
+  "Greensboro": {
+    "date": 1528395762,
+    "lng": -79.8277,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395762,
+    "key": "46d8b01859e05f8696ff78774f4626b7",
+    "lat": 36.096,
+    "path": "/NC/Greensboro",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "NC/Greensboro",
+    "walkscore": 37,
+    "page": "c"
+  },
+  "Newark": {
+    "date": 1528395762,
+    "lng": -74.1724,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395762,
+    "key": "081f1f6147ff12533d571df27be8efe8",
+    "lat": 40.7242,
+    "path": "/NJ/Newark",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "NJ/Newark",
+    "walkscore": 88,
+    "page": "c"
+  },
+  "Plano": {
+    "date": 1528395763,
+    "lng": -96.7486,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395763,
+    "key": "4002b7f5b318e3cf615f8b39fb3673f2",
+    "lat": 33.0502,
+    "path": "/TX/Plano",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "TX/Plano",
+    "walkscore": 35,
+    "page": "c"
+  },
+  "Henderson": {
+    "date": 1528395763,
+    "lng": -115.037,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395763,
+    "key": "d50ce31b98e518dae3b1facc991f9adf",
+    "lat": 36.0122,
+    "path": "/NV/Henderson",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "NV/Henderson",
+    "walkscore": 3,
+    "page": "c"
+  },
+  "Lincoln": {
+    "date": 1528395763,
+    "lng": -96.6807,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395763,
+    "key": "7c084ea2ec370dbce4e823b53198481a",
+    "lat": 40.8096,
+    "path": "/NE/Lincoln",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "NE/Lincoln",
+    "walkscore": 77,
+    "page": "c"
+  },
+  "Buffalo": {
+    "date": 1528395763,
+    "lng": -78.8594,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395763,
+    "key": "fbf15387635914c1211666d1e148a904",
+    "lat": 42.8923,
+    "path": "/NY/Buffalo",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "NY/Buffalo",
+    "walkscore": 63,
+    "page": "c"
+  },
+  "Jersey City": {
+    "date": 1528395764,
+    "lng": -74.0648,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395764,
+    "key": "f8a1465692744fe366df8ce4bc2abffb",
+    "lat": 40.7116,
+    "path": "/NJ/Jersey_City",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "NJ/Jersey_City",
+    "walkscore": 84,
+    "page": "c"
+  },
+  "Chula Vista": {
+    "date": 1528395764,
+    "lng": -117.014,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "302 4th Avenue",
+    "sort_date": 1528395764,
+    "key": "f0797e221a0e5295ed26abfc76307847",
+    "lat": 32.6281,
+    "path": "/CA/Chula_Vista",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/Chula_Vista",
+    "walkscore": 18,
+    "page": "c"
+  },
+  "Fort Wayne": {
+    "date": 1528395764,
+    "lng": -85.1436,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "111 West Berry Street",
+    "sort_date": 1528395764,
+    "key": "bc46206c64a8a356115ed0a956969ec4",
+    "lat": 41.0885,
+    "path": "/IN/Fort_Wayne",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "IN/Fort_Wayne",
+    "walkscore": 77,
+    "page": "c"
+  },
+  "Orlando": {
+    "date": 1528395764,
+    "lng": -81.3452,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395764,
+    "key": "e87a0d132f3d26c2f3b21da0b3c4582d",
+    "lat": 28.4801,
+    "path": "/FL/Orlando",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "FL/Orlando",
+    "walkscore": 10,
+    "page": "c"
+  },
+  "St. Petersburg": {
+    "date": 1528395765,
+    "lng": -82.643,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "437 1st Avenue North",
+    "sort_date": 1528395765,
+    "key": "6916892e74c5279ffc26b82e594ad346",
+    "lat": 27.7614,
+    "path": "/FL/St._Petersburg",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "FL/St._Petersburg",
+    "walkscore": 60,
+    "page": "c"
+  },
+  "Chandler": {
+    "date": 1528395765,
+    "lng": -111.852,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395765,
+    "key": "34c94bb35ca4fb165d64d794869fe631",
+    "lat": 33.2832,
+    "path": "/AZ/Chandler",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "AZ/Chandler",
+    "walkscore": 30,
+    "page": "c"
+  },
+  "Laredo": {
+    "date": 1528395765,
+    "lng": -99.4868,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395765,
+    "key": "4fae46f160a0233aa32b8901536f5e3a",
+    "lat": 27.5482,
+    "path": "/TX/Laredo",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "TX/Laredo",
+    "walkscore": 57,
+    "page": "c"
+  },
+  "Norfolk": {
+    "date": 1528395765,
+    "lng": -76.2456,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395765,
+    "key": "57aa26c08d4c3647833423bf58133453",
+    "lat": 36.9233,
+    "path": "/VA/Norfolk",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "VA/Norfolk",
+    "walkscore": 30,
+    "page": "c"
+  },
+  "Durham": {
+    "date": 1528395765,
+    "lng": -78.9059,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395765,
+    "key": "0aa349bef614dbaaed93ca68b6c74405",
+    "lat": 35.9809,
+    "path": "/NC/Durham",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "NC/Durham",
+    "walkscore": 65,
+    "page": "c"
+  },
+  "Madison": {
+    "date": 1528395765,
+    "lng": -89.3915,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395765,
+    "key": "fc7d56b8a504ae994b0e45e9f88767ff",
+    "lat": 43.081,
+    "path": "/WI/Madison",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "WI/Madison",
+    "walkscore": 62,
+    "page": "c"
+  },
+  "Lubbock": {
+    "date": 1528395766,
+    "lng": -101.886,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395766,
+    "key": "bc6d1d6ed063634198b846473c2eb4be",
+    "lat": 33.5666,
+    "path": "/TX/Lubbock",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "TX/Lubbock",
+    "walkscore": 63,
+    "page": "c"
+  },
+  "Irvine": {
+    "date": 1528395766,
+    "lng": -117.774,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "12 Cove",
+    "sort_date": 1528395766,
+    "key": "13f076c7bc1e8db546dc7b4aca5c776e",
+    "lat": 33.678,
+    "path": "/CA/Irvine",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/Irvine",
+    "walkscore": 40,
+    "page": "c"
+  },
+  "Winston-Salem": {
+    "date": 1528395766,
+    "lng": -80.261,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395766,
+    "key": "f0c1212c8531a73d315c268047478b06",
+    "lat": 36.1029,
+    "path": "/NC/Winston-Salem",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "NC/Winston-Salem",
+    "walkscore": 56,
+    "page": "c"
+  },
+  "Glendale": {
+    "date": 1528395766,
+    "lng": -112.225,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "5909 West Glendale Avenue",
+    "sort_date": 1528395766,
+    "key": "a92805b26949e8e49d91a4d96db1d198",
+    "lat": 33.5796,
+    "path": "/AZ/Glendale",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "AZ/Glendale",
+    "walkscore": 49,
+    "page": "c"
+  },
+  "Garland": {
+    "date": 1528395767,
+    "lng": -96.6304,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "107 North 7th Street",
+    "sort_date": 1528395767,
+    "key": "487e848d735c405ff7071d35b04ab36b",
+    "lat": 32.9101,
+    "path": "/TX/Garland",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "TX/Garland",
+    "walkscore": 58,
+    "page": "c"
+  },
+  "Hialeah": {
+    "date": 1528395767,
+    "lng": -80.3045,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395767,
+    "key": "8f44bebdca9274ae10002d574d17fa14",
+    "lat": 25.8696,
+    "path": "/FL/Hialeah",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "FL/Hialeah",
+    "walkscore": 71,
+    "page": "c"
+  },
+  "Reno": {
+    "date": 1528395767,
+    "lng": -119.853,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395767,
+    "key": "d7634821f5fa0ac58a6bf06bfdc2c9ad",
+    "lat": 39.554,
+    "path": "/NV/Reno",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "NV/Reno",
+    "walkscore": 2,
+    "page": "c"
+  },
+  "Chesapeake": {
+    "date": 1528395767,
+    "lng": -76.3024,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "Pvt 7 Road",
+    "sort_date": 1528395767,
+    "key": "9a8bd34278a7aaec7e2d318f37f90c47",
+    "lat": 36.6778,
+    "path": "/VA/Chesapeake",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "VA/Chesapeake",
+    "walkscore": 0,
+    "page": "c"
+  },
+  "Gilbert": {
+    "date": 1528395767,
+    "lng": -111.746,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "133 North Gilbert Road",
+    "sort_date": 1528395767,
+    "key": "5c398418505de1ba0ffb2e274085b360",
+    "lat": 33.3102,
+    "path": "/AZ/Gilbert",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "AZ/Gilbert",
+    "walkscore": 46,
+    "page": "c"
+  },
+  "Baton Rouge": {
+    "date": 1528395768,
+    "lng": -91.1264,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "900-1122 North 49th Street",
+    "sort_date": 1528395768,
+    "key": "933eebb194914af9d2c09c4522b04ce5",
+    "lat": 30.4511,
+    "path": "/LA/Baton_Rouge",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "LA/Baton_Rouge",
+    "walkscore": 59,
+    "page": "c"
+  },
+  "Irving": {
+    "date": 1528395768,
+    "lng": -96.9703,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395768,
+    "key": "3b2a678eec0621432e1a26d098e42396",
+    "lat": 32.8584,
+    "path": "/TX/Irving",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "TX/Irving",
+    "walkscore": 15,
+    "page": "c"
+  },
+  "Scottsdale": {
+    "date": 1528395769,
+    "lng": -111.865,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "7242 East Main Street",
+    "sort_date": 1528395769,
+    "key": "0ee648b1e5f65db5dfc90832376f0f64",
+    "lat": 33.6872,
+    "path": "/AZ/Scottsdale",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "AZ/Scottsdale",
+    "walkscore": 0,
+    "page": "c"
+  },
+  "North Las Vegas": {
+    "date": 1528395769,
+    "lng": -115.088,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "2240 Civic Center Drive",
+    "sort_date": 1528395769,
+    "key": "11d22cca784e2fb10ab06ce461d36fe5",
+    "lat": 36.2892,
+    "path": "/NV/North_Las_Vegas",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "NV/North_Las_Vegas",
+    "walkscore": 0,
+    "page": "c"
+  },
+  "Fremont": {
+    "date": 1528395769,
+    "lng": -121.996,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395769,
+    "key": "fc9221de60bb5747bade4c979d423652",
+    "lat": 37.5247,
+    "path": "/CA/Fremont",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/Fremont",
+    "walkscore": 75,
+    "page": "c"
+  },
+  "Boise City": {
+    "date": 1528395770,
+    "lng": -116.231,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395770,
+    "key": "995c4c731441e2e997fca0bddf9c7b13",
+    "lat": 43.5984,
+    "path": "/ID/Boise_City",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "ID/Boise_City",
+    "walkscore": 56,
+    "page": "c"
+  },
+  "Richmond": {
+    "date": 1528395770,
+    "lng": -77.4756,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "",
+    "sort_date": 1528395770,
+    "key": "f3160dc15060329f613ec3dfd4226fd4",
+    "lat": 37.5294,
+    "path": "/VA/Richmond",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "VA/Richmond",
+    "walkscore": 1,
+    "page": "c"
+  },
+  "San Bernardino": {
+    "date": 1528395770,
+    "lng": -117.295,
+    "thumb": "https://pp2.walk.sc/s225/p/0/000000.jpg",
+    "title": "505 North Arrowhead Avenue",
+    "sort_date": 1528395770,
+    "key": "78ea155a3639aee9de728e5d36794ac2",
+    "lat": 34.1392,
+    "path": "/CA/San_Bernardino",
+    "price_range": [
+      null,
+      null
+    ],
+    "slug": "CA/San_Bernardino",
+    "walkscore": 65,
+    "page": "c"
+  }
+}
